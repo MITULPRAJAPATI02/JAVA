@@ -199,17 +199,17 @@ public class conditions {
 		
 //		program 4 leap year
 		
-//		year is divisible by 4 and not divisible by 100 OR
-//		year is divisible by 400
-//		
-//int year=2024;
-//
-//if (((year % 4 == 0 &&  year % 100 !=0 )) || (year % 400 == 0))
-//
-//{
-//	System.out.println("THIS YEAR IS LEAP YEAR ");
-//}
-//else {System.out.println("this is not a leap year ");}
+		year is divisible by 4 and not divisible by 100 OR
+		year is divisible by 400
+		
+int year=2024;
+
+if (((year % 4 == 0 &&  year % 100 !=0 )) || (year % 400 == 0))
+
+{
+	System.out.println("THIS YEAR IS LEAP YEAR ");
+}
+else {System.out.println("this is not a leap year ");}
 
 	
 //int age=90;
@@ -312,38 +312,38 @@ public class conditions {
 		
 //		Question 12
 		
-		String Name="Mitul";
-		int id=32;
+// 		String Name="Mitul";
+// 		int id=32;
 		
-		double unit=45.6;
+// 		double unit=45.6;
 		
-	double	unitcharged=0;
-		
-		
-		
-		if(unit<=199)
-//	{System.out.println(unit*1.20);}
-			unitcharged=1.20;
-		else if (unit>=200 && unit<400)
-//		{System.out.println(unit*1.50);}
-			unitcharged=1.50;
-		else if (unit>=400 && unit<600)
-//		{System.out.println(unit*1.80);}
-			unitcharged=1.80;
-		
-		else if (unit>=600)
-//		{System.out.println(unit*2);}
-			unitcharged=2.0;
+// 	double	unitcharged=0;
 		
 		
 		
-		double billamount= unit*unitcharged;
+// 		if(unit<=199)
+// //	{System.out.println(unit*1.20);}
+// 			unitcharged=1.20;
+// 		else if (unit>=200 && unit<400)
+// //		{System.out.println(unit*1.50);}
+// 			unitcharged=1.50;
+// 		else if (unit>=400 && unit<600)
+// //		{System.out.println(unit*1.80);}
+// 			unitcharged=1.80;
+		
+// 		else if (unit>=600)
+// //		{System.out.println(unit*2);}
+// 			unitcharged=2.0;
 		
 		
-		if(billamount>400)
-		{System.out.println("billamount"+billamount*0.15);}
 		
-		else if(billamount<100) {System.out.println(billamount=100);}
+// 		double billamount= unit*unitcharged;
+		
+		
+// 		if(billamount>400)
+// 		{System.out.println("billamount"+billamount*0.15);}
+		
+// 		else if(billamount<100) {System.out.println(billamount=100);}
 
 		
 		
