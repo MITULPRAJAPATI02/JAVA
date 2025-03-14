@@ -10,16 +10,16 @@ public class HelloWorld {
 		
 //		System.out.println("My name is Mitul..."); 
 //
-//		int a = 2002;
-//		String name ="mitul";
-//		
-//		boolean isAuth = true;
-//		
-//		
-//		float per = 200.56f;
-//		
-//		
-//		System.err.println(a + " " + name + " "+ isAuth + " " + per );
+		int a = 2002;
+		String name ="mitul";
+		
+		boolean isAuth = true;
+		
+		
+		float per = 200.56f;
+		
+		
+		System.err.println(a + " " + name + " "+ isAuth + " " + per );
 //		
 //		
 //		
