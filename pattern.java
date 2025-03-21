@@ -27,8 +27,8 @@ public class pattern {
 				price = 200;
 			} else if (ch == 4) {
 				break;
-			} else {
-				price = 0;
+			// } else {
+			// 	price = 0;
 			}
 			System.out.println("Enter Qnt"); 
 			int qnt = obj.nextInt();
