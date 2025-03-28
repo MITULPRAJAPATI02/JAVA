@@ -142,27 +142,58 @@ public class pattern {
 
 //butterfly pattern
 		
-		for(int i=1;i<=6;i++)
+		// for(int i=1;i<=6;i++)
 			
-		{
+		// {
 			
-			for(int j=1;j<=i;j++)
+		// 	for(int j=1;j<=i;j++)
 				
-			{System.out.print("*");}  
+		// 	{System.out.print("*");}  
 			
-			for(int k=1;k<=6-i;k++)
-			{System.out.print("  ");}
+		// 	for(int k=1;k<=6-i;k++)
+		// 	{System.out.print("  ");}
 			
-			for(int x=1;x<=i;x++)
-			{System.out.print("*");}
-			
-			
+		// 	for(int x=1;x<=i;x++)
+		// 	{System.out.print("*");}
 			
 			
 			
-			System.out.println();
 			
-		} 
+			
+		// 	System.out.println();
+			
+		// } 
+	
+	
+	
+	// line 402
+	
+		for(int m=1;m<=5;m++)
+			
+			
+		{for(int h =1;h<=6-m;h++)
+			
+		{System.out.print("*");}
+		
+		
+		
+		for(int s=1;s<=m;s++)
+			
+		{System.out.print("  ");}
+		
+		for(int l=1;l<=6-m;l++)
+		
+		{System.out.print("*");}
+		
+		System.out.println();
+
+		}
+	
+	
+	
+	
+	
+	
 	}}
 
 	
