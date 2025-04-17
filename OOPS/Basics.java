@@ -6,27 +6,27 @@ public class Main
 	public static void main(String[] args) {
 		
 		
-		Student std = new Student(5); 
-				System.out.println(std.demo());  
+// 		Student std = new Student(5); 
+// 				System.out.println(std.demo());  
 
-// 		std.demo();
+// // 		std.demo();
 		
 		
-	}
-} 
+// 	}
+// } 
 
 
-class Student 
-{ 
-    private int x;
-     public Student(int xdata)
-    {
-        x = xdata;
-    }
+// class Student 
+// { 
+//     private int x;
+//      public Student(int xdata)
+//     {
+//         x = xdata;
+//     }
     
-    public int demo()
-    { 
-        return this.x;
+//     public int demo()
+//     { 
+//         return this.x;
         // 	System.out.println("Testing.." + this.x);
     }
 }
