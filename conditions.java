@@ -276,26 +276,26 @@ public class conditions {
 	 
 //		Question 9
 	
-//		double Temperature=49.5;
-//		
-//		if(Temperature<0)
-//		{System.out.println("Frezzoing weather");}
-//		
-//		else if(Temperature>=0&&Temperature<=10)
-//		{System.out.println("Very cold weather");}
-//		
-//		else if(Temperature>10&&Temperature<=20)
-//		{System.out.println(" cold weather");}
-//		
-//		else if(Temperature>20&&Temperature<=30)
-//		{System.out.println(" Normal weather");} 
-//		
-//		else if(Temperature>30&&Temperature<=40)
-//		{System.out.println(" HOt weather");}
-//		
-//		else if(Temperature>40&&Temperature<=50)
-//		{System.out.println("  very HOt weather");}
-//	 
+		double Temperature=49.5;
+		
+		if(Temperature<0)
+		{System.out.println("Frezzoing weather");}
+		
+		else if(Temperature>=0&&Temperature<=10)
+		{System.out.println("Very cold weather");}
+		
+		else if(Temperature>10&&Temperature<=20)
+		{System.out.println(" cold weather");}
+		
+		else if(Temperature>20&&Temperature<=30)
+		{System.out.println(" Normal weather");} 
+		
+		else if(Temperature>30&&Temperature<=40)
+		{System.out.println(" HOt weather");}
+		
+		else if(Temperature>40&&Temperature<=50)
+		{System.out.println("  very HOt weather");}
+	 
 	 
 //		Question 11
 		
@@ -321,29 +321,29 @@ public class conditions {
 		
 		
 		
-		if(unit<=199)
-	{System.out.println(unit*1.20);}
-			unitcharged=1.20;
-		else if (unit>=200 && unit<400)
-		{System.out.println(unit*1.50);}
-			unitcharged=1.50;
-		else if (unit>=400 && unit<600)
-		{System.out.println(unit*1.80);}
-			unitcharged=1.80;
+	// 	if(unit<=199)
+	// {System.out.println(unit*1.20);}
+	// 		unitcharged=1.20;
+	// 	else if (unit>=200 && unit<400)
+	// 	{System.out.println(unit*1.50);}
+	// 		unitcharged=1.50;
+	// 	else if (unit>=400 && unit<600)
+	// 	{System.out.println(unit*1.80);}
+	// 		unitcharged=1.80;
 		
-		else if (unit>=600)
-		{System.out.println(unit*2);}
-			unitcharged=2.0;
-		
-		
-		
-		double billamount= unit*unitcharged;
+	// 	else if (unit>=600)
+	// 	{System.out.println(unit*2);}
+	// 		unitcharged=2.0;
 		
 		
-		if(billamount>400)
-		{System.out.println("billamount"+billamount*0.15);}
 		
-		else if(billamount<100) {System.out.println(billamount=100);}
+	// 	double billamount= unit*unitcharged;
+		
+		
+	// 	if(billamount>400)
+	// 	{System.out.println("billamount"+billamount*0.15);}
+		
+	// 	else if(billamount<100) {System.out.println(billamount=100);}
 
 		
 		
