@@ -168,48 +168,48 @@ public class pattern {
 	
 	// line 402
 	
-		// for(int m=1;m<=5;m++)
+		for(int m=1;m<=5;m++)
 			
 			
-		// {for(int h =1;h<=6-m;h++)
+		{for(int h =1;h<=6-m;h++)
 			
-		// {System.out.print("*");}
+		{System.out.print("*");}
 		
 		
 		
-		// for(int s=1;s<=m;s++)
+		for(int s=1;s<=m;s++)
 			
-		// {System.out.print("  ");}
+		{System.out.print("  ");}
 		
-		// for(int l=1;l<=6-m;l++)
+		for(int l=1;l<=6-m;l++)
 		
-		// {System.out.print("*");}
+		{System.out.print("*");}
 		
-		// System.out.println();
+		System.out.println();
 
-		// }
+		}
 
 
 
-		for(int i=1;i<=4;i++)
-		{
-			int flag = i ;
-			for(int k=1;k<i;k++)
+		// for(int i=1;i<=4;i++)
+		// {
+		// 	int flag = i ;
+		// 	for(int k=1;k<i;k++)
 				
-			{System.out.print(" ");}
+		// 	{System.out.print(" ");}
 			 
 			
-		for(int j=1;j<=5-i;j++)
+		// for(int j=1;j<=5-i;j++)
 			
 
 		
-		{System.out.print(flag+" ");
-			flag++;
-		}
+		// {System.out.print(flag+" ");
+		// 	flag++;
+		// }
 			
-		System.out.println();
+		// System.out.println();
 		
-		}
+		// }
 	
 	
 	
